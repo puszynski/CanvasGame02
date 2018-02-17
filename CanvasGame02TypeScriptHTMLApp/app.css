@@ -1,10 +1,6 @@
 ﻿body {
     margin: 0;
     background: #1F1E1B;
-    font-family: 'Segoe UI', sans-serif;
     overflow: hidden;
 }
 
-span {
-    font-style: italic;
-}
